@@ -1,0 +1,15 @@
+ 
+I'm learning my first real language, Python, and the local dev community introduced me to Git, and I'm just floored. Thank you for this video,
+ for sharing your knowledge, your instructions and explanations are clear, they are easy to follow, and I'm as newbie as you can get. I liked your video,
+ I subscribed, thanks again :D?
+Reply  ·  2
+
+Abbie Wolff6 days ago
+ 
+I'm in the exact same situation. I also really appreciate this video and what GitHub offers to newbie and veteran programmers alike. :)?
+Reply  ·  1
+
+Charles McKeever via Google+8 months ago
+ 
+Do you use a tool to share and track changes to your code? If not, here's a great
+ overview of using @github http://youtu.be/U8GBXvdmHT4?
